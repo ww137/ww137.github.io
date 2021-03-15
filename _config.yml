@@ -1,1 +1,6 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-cayman\
+
+locale: "en-US"
+title: "Minsoo Kim's GitHub Pages"
+
+name: "Minsoo Kim"
