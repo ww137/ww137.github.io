@@ -1,4 +1,4 @@
-Welcome to Computational Physics Class in SKKU
+Welcome to Computational Physics Class @ SKKU
 ============================
 
 Check out the content pages.
