@@ -1,14 +1,16 @@
 # Day 00: Introduction
 
-Python is good!
+[Python](https://www.python.org) is good!
 
-Use anaconda to install following libraries:
+Use [anaconda](https://www.anaconda.com) to install following libraries:
 
-- NumPy
-- Matplotlib
-- SciPy
+- [numpy](https://numpy.org)
+- [Matplotlib](https://matplotlib.org)
+- [SciPy](https://www.scipy.org)
 
-Creating a new environment is recommended.
+To create a new conda environment execute following command:
 ```console
-$ conda create -n [name] python numpy matplotlib scipy
+conda create -n [name] python numpy matplotlib scipy
 ```
+
+You can find detailed documentations from the link!
