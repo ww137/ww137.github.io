@@ -2,9 +2,9 @@
 
 [Python](https://www.python.org) is good!
 
-Use [anaconda](https://www.anaconda.com) to install following libraries:
+Use [Anaconda](https://www.anaconda.com) to install following libraries:
 
-- [numpy](https://numpy.org)
+- [NumPy](https://numpy.org)
 - [Matplotlib](https://matplotlib.org)
 - [SciPy](https://www.scipy.org)
 
