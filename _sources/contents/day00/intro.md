@@ -1,3 +1,3 @@
-# Python 3
+# Day 00
 
 Python is good!
